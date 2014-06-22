@@ -19,6 +19,7 @@ Packages
 Instead of checking in packages which are maintained elsewhere, here is the list of installed packages:
 
 1. atom-monokai-dark
+1. atom-ungit
 1. color-picker
 1. extract-method
 1. git-plus
@@ -55,3 +56,8 @@ The `symbol-gen` and `symbols-view` packages are great for jumping specifically 
 ```
 
 Add the above to `~/.ctags` then regenerate the symbols and the new patterns will be indexed.
+
+Ungit
+-----
+
+[Ungit](https://github.com/FredrikNoren/ungit) is Git GUI written in node.  It will show up directly in atom if it is installed and you have the `atom-ungit` plugin.
