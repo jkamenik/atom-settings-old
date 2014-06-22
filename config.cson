@@ -1,0 +1,41 @@
+'editor':
+  'softWrapAtPreferredLineLength': true
+  'preferredLineLength': 120
+  'showInvisibles': true
+  'softWrap': true
+  'showIndentGuide': true
+'core':
+  'themes': [
+    'atom-dark-ui'
+    'base16-tomorrow-dark-theme'
+  ]
+  'excludeVcsIgnoredPaths': false
+  'ignoredNames': [
+    '.git'
+    '.hg'
+    '.svn'
+    '.DS_Store'
+    'Thumbs.db'
+    'tags'
+  ]
+'exception-reporting':
+  'userId': '98d4206f-8b3a-18a4-b198-ffa55f9691bd'
+'release-notes':
+  'viewedVersion': '0.95.0'
+'welcome':
+  'showOnStartup': false
+'metrics':
+  'userId': '59f2511cbfcb0b6001f3fb267a871974eeef6979'
+'go-plus':
+  'goPath': '${HOME}/.go'
+  'goExecutablePath': '/usr/local/bin/go'
+  'gofmtPath': 'gofmt'
+  'gofmtArgs': '-tabs=false -tabwidth=2 -w -s'
+  'vetOnSave': false
+'whitespace':
+  'ignoreWhitespaceOnCurrentLine': false
+'minimap':
+  'autoToggle': true
+'highlight-selected': {}
+'markdown-preview':
+  'breakOnSingleNewline': true
