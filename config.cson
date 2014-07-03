@@ -30,7 +30,7 @@
   'goPath': '${HOME}/.go'
   'goExecutablePath': '/usr/local/bin/go'
   'gofmtPath': 'gofmt'
-  'gofmtArgs': '-tabs=false -tabwidth=2 -w -s'
+  'gofmtArgs': '-w -s'
   'vetOnSave': false
 'whitespace':
   'ignoreWhitespaceOnCurrentLine': false
