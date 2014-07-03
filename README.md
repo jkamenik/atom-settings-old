@@ -33,6 +33,7 @@ Instead of checking in packages which are maintained elsewhere, here is the list
 1. monokai
 1. monokai-dark
 1. monokai-extended
+1. Quippet
 1. rspec
 1. Sublime-Style-Column-Selection
 1. symbol-gen
