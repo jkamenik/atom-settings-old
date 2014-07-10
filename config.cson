@@ -18,6 +18,7 @@
     'Thumbs.db'
     'tags'
   ]
+  'useReactEditor': true
 'exception-reporting':
   'userId': '98d4206f-8b3a-18a4-b198-ffa55f9691bd'
 'release-notes':
