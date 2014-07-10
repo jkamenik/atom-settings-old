@@ -27,6 +27,7 @@ Instead of checking in packages which are maintained elsewhere, here is the list
 1. highlight-selected
 1. language-ini
 1. language-rabl
+1. language-rspec
 1. minimap
 1. minimap-git-diff
 1. minimap-highlight-selected
