@@ -20,3 +20,6 @@
   'cmd-l': 'go-to-line:toggle'
   'cmd-b': 'symbols-view:go-to-declaration'
   'fn-delete': 'delete'
+
+".autocomplete-plus input.hidden-input":
+  "enter": "autocomplete-plus:confirm"

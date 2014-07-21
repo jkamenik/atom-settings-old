@@ -1,6 +1,8 @@
 Atom Settings
 =============
 
+
+
 Contains all my personal settings for the [Atom](http://atom.io) editor.
 
 Installation
@@ -20,7 +22,11 @@ Instead of checking in packages which are maintained elsewhere, here is the list
 
 1. atom-monokai-dark
 1. atom-ungit
+1. autocomplete-paths
+1. autocomplete-plus
+1. autocomplete-snippets
 1. color-picker
+1. execute-as-ruby
 1. extract-method
 1. git-plus
 1. go-plus
@@ -34,7 +40,6 @@ Instead of checking in packages which are maintained elsewhere, here is the list
 1. monokai
 1. monokai-dark
 1. monokai-extended
-1. Quippet
 1. rspec
 1. Sublime-Style-Column-Selection
 1. symbol-gen
